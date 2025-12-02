@@ -1,2 +1,2 @@
 # Customer-Behaviour-Dashboard
-Built a Customer Behaviour Dashboard in PowerBI
+Built a Customer Behaviour analysis projecct using Python and PowerBI
